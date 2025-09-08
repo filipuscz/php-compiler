@@ -43,7 +43,7 @@ This is a simple web-based PHP compiler that allows users to write, run, and tes
 ## Acknowledgments
 
 Special thanks to ClipboardJS
- for providing the amazing clipboard functionality. It's an easy-to-use library for copying content to the clipboard and enhancing the user experience!
+for providing the amazing clipboard functionality. It's an easy-to-use library for copying content to the clipboard and enhancing the user experience!
 
 ## Security Warning
 
