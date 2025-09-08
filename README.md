@@ -40,6 +40,11 @@ This is a simple web-based PHP compiler that allows users to write, run, and tes
 3. The output will be displayed below the form.
 4. If you need to copy your code, simply click the **Copy** button next to the text area.
 
+## Acknowledgments
+
+Special thanks to ClipboardJS
+ for providing the amazing clipboard functionality. It's an easy-to-use library for copying content to the clipboard and enhancing the user experience!
+
 ## Security Warning
 
 **Important**: This is a simple local PHP execution tool and should **not** be used on a live production server without further security measures. Executing arbitrary PHP code can be dangerous, and extra precautions (such as sandboxing) are recommended if deploying publicly.
